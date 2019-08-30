@@ -1,0 +1,22 @@
+{
+  "name": "brfv5-electron",
+  "version": "1.0.0",
+  "description": "BRFv5 JavaScript SDK - Platform: Windows/macOS via Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "open node_modules/electron/dist/Electron.app --args $PWD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tastenkunst/brfv5-electron.git"
+  },
+  "author": "Marcel Klammer, Tastenkunst GmbH, 2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tastenkunst/brfv5-electron/issues"
+  },
+  "homepage": "https://github.com/Tastenkunst/brfv5-electron#readme",
+  "devDependencies": {
+    "electron": "^6.0.5"
+  }
+}
