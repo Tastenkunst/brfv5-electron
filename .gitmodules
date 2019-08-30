@@ -1,0 +1,3 @@
+[submodule "brfv5"]
+	path = brfv5
+	url = https://github.com/Tastenkunst/brfv5-browser.git
