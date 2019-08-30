@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Tastenkunst/brfv5-electron#readme",
   "devDependencies": {
-    "electron": "^6.0.5"
+    "electron": "^6.0.6"
   }
 }
